@@ -7,3 +7,11 @@
 - 😍 🏃🏊🐈
 - 🌟 🐶
 
+---
+
+### 🐾 My Pets
+
+| 🐈 Cat | 🐶 Dog |
+|--------|--------|
+| My lovely cat! | My adorable dog! |
+
